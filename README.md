@@ -127,11 +127,9 @@ The app will run on:
 ---
 
 ## 👨‍💻 Developed By
-**Rathod Arun Nayak**  
+**SURESH**  
 MERN Stack Developer  
 
-🔗 [GitHub](https://github.com/arunnayak2806) | 💼 [LinkedIn](https://www.linkedin.com/in/arun-nayak-27105a2b5/)
 
----
 
 ⭐ **If you like this project, don’t forget to star the repo!**
